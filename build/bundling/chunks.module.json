@@ -2,28 +2,14 @@
   "errors": [],
   "warnings": [],
   "version": "4.44.2",
-  "hash": "75960f49e2ca4adc5d96",
+  "hash": "4464614dcc0f6d55fe32",
   "publicPath": "/static/",
   "outputPath": "/home/fabiogiacometti/proyectos/taskforceReact/build/static",
   "assetsByChunkName": {
     "list": "list.module.js",
-    "taskforcereact": [
-      "taskforcereact.module.js",
-      "taskforcereact.4d0cda60233cd7c6e926.hot-update.js"
-    ]
+    "taskforcereact": "taskforcereact.module.js"
   },
   "assets": [
-    {
-      "name": "4d0cda60233cd7c6e926.hot-update.json",
-      "size": 56,
-      "chunks": [],
-      "chunkNames": [],
-      "info": {
-        "hotModuleReplacement": true,
-        "immutable": true
-      },
-      "emitted": false
-    },
     {
       "name": "list.module.js",
       "size": 47905,
@@ -34,21 +20,6 @@
         "list"
       ],
       "info": {},
-      "emitted": false
-    },
-    {
-      "name": "taskforcereact.4d0cda60233cd7c6e926.hot-update.js",
-      "size": 14197,
-      "chunks": [
-        "taskforcereact"
-      ],
-      "chunkNames": [
-        "taskforcereact"
-      ],
-      "info": {
-        "hotModuleReplacement": true,
-        "immutable": true
-      },
       "emitted": false
     },
     {
@@ -71,8 +42,7 @@
         "taskforcereact"
       ],
       "assets": [
-        "taskforcereact.module.js",
-        "taskforcereact.4d0cda60233cd7c6e926.hot-update.js"
+        "taskforcereact.module.js"
       ],
       "children": {},
       "childAssets": {}
@@ -84,8 +54,7 @@
         "taskforcereact"
       ],
       "assets": [
-        "taskforcereact.module.js",
-        "taskforcereact.4d0cda60233cd7c6e926.hot-update.js"
+        "taskforcereact.module.js"
       ],
       "children": {},
       "childAssets": {}

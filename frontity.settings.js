@@ -35,8 +35,8 @@ const settings = {
             ]
           ],
           "featured": {
-            "showOnList": false,
-            "showOnPost": false
+            "showOnList": true,
+            "showOnPost": true  
           }
         }
       }
@@ -45,7 +45,7 @@ const settings = {
       "name": "@frontity/wp-source",
       "state": {
         "source": {
-          "api": "https://www.inviertis.es/wp-json/wp/v2/posts"
+          "api": "https://www.anitarivetti.com/wp-json"
         }
       }
     },
